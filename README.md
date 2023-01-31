@@ -1,14 +1,13 @@
 # Python vs R for Data Science
 This guide will provide an answer to one of the common questions asked by those new to data science and assist in choosing between R and Python.
 
-<br />
 <p align="center">
-  <a href="https://www.datacamp.com/blog/python-vs-r-for-data-science-whats-the-difference/"><img src="README/Python-vs-R.png"
-     width=auto 
-     height="300"/>
+  <a href="https://www.datacamp.com/">
+    <img src="README/Python-vs-R.png" width="auto" height="300">
   </a>
+  <br>
+  Image by <a href="https://www.datacamp.com/">DataCamp</a>
 </p>
-<br />
 
 <p align="justify">
 
