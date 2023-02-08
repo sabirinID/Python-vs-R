@@ -1,5 +1,5 @@
-# Python vs R for Data Science
-This guide will provide an answer to one of the common questions asked by those new to data science and assist in choosing between R and Python.
+# Python vs R: Data Science
+Python dan R adalah bahasa pemrograman yang banyak digunakan dalam data science atau ilmu data. Tahukah kamu perbedaan di antara keduanya?
 
 <p align="center">
   <a href="https://www.datacamp.com/">
@@ -11,24 +11,16 @@ This guide will provide an answer to one of the common questions asked by those 
 
 <p align="justify">
 
-## What's the difference?
+## Perbedaan Python dan R
+Berikut adalah perbedaan antara Python dan R.
 
-Python and R are both programming languages widely used in data science, but with some key differences:
+### Python
+Python adalah bahasa pemrograman tingkat tinggi yang diciptakan oleh Guido van Rossum pada tahun 1989. Ide awal dari Python adalah untuk membuat bahasa yang memiliki sintaks yang sederhana dan mudah dipahami sehingga lebih mudah dipelajari dan digunakan. Python memiliki kode sumber terbuka dan sangat aktif dikembangkan oleh komunitas pemrograman.
 
-1. <b>Purpose</b>: Python is a general-purpose programming language, while R is specifically designed for statistical computing and graphics.
-2. <b>Syntax</b>: Python has a simple, readable syntax that is easy to learn, while R has a more specialized syntax for statistical operations.
-3. <b>Libraries</b>: Python has a large ecosystem of libraries and tools for data science, machine learning, web development, and more. R also has a rich library ecosystem, with a focus on statistical analysis and data visualization.
-4. <b>Community</b>: Python has a large and active community of users, while R has a smaller but dedicated community of statisticians and data scientists.
-5. <b>Speed</b>: Python is faster for general-purpose programming tasks, but R can be faster for certain statistical computations.
-6. <b>Visualization</b>: Python has a number of powerful data visualization libraries such as Matplotlib and Seaborn, while R has specialized data visualization packages such as ggplot2.
+Bahasa ini sangat popular dalam bidang ilmu data dan analisis, meskipun juga digunakan dalam berbagai bidang lain seperti web development, pemrograman perangkat lunak, dan pemodelan bisnis. Python memiliki sejumlah besar library dan alat yang memungkinkan pemrogram untuk melakukan tugas-tugas kompleks dengan mudah dan cepat.
 
-## Which should you learn?
+### R
+R adalah bahasa pemrograman dan perangkat lunak yang dikembangkan oleh Ross Ihaka dan Robert Gentleman pada 1993 di Universitas Auckland, Selandia Baru. Awalnya, R dibuat sebagai alternatif untuk bahasa pemrograman S yang digunakan dalam statistik. Dalam beberapa tahun, R menjadi populer di kalangan ilmuwan data dan ahli statistika karena kemampuannya dalam melakukan analisis statistik dan visualisasi data.
 
-The choice between Python and R for data science depends on your specific needs and goals:
-
-1. If you have a background in programming or software development and want to work with a general-purpose language, Python might be the better choice for you.
-2. If you're more focused on data analysis and statistical modeling, R may be the better option due to its specialized syntax and library ecosystem for these tasks.
-3. If you are interested in data visualization, both languages have strong libraries and capabilities, but R's ggplot2 library is often considered one of the best tools for visualizing data.
-
-Overall, both Python and R have their own strengths and weaknesses, and the choice between them largely depends on your specific needs and goals. In the long run, it might be useful to learn both, as this will give you more options and increase your flexibility in the field.
+Sejak saat itu, R telah mengalami perkembangan yang sangat pesat, dengan banyak paket dan library ditambahkan untuk memenuhi kebutuhan komunitas penggunanya yang semakin bertambah. R saat ini digunakan dalam berbagai bidang, termasuk penelitian, bisnis, dan industri. Hal ini terutama karena ketersediaan paket dan library yang kuat, serta kemampuannya untuk melakukan analisis yang kompleks dan visualisasi data yang atraktif.
 </p>
