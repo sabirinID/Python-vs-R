@@ -15,12 +15,12 @@ Python dan R adalah bahasa pemrograman yang banyak digunakan dalam data science 
 Berikut adalah perbedaan antara Python dan R.
 
 ### Python
-Python adalah bahasa pemrograman tingkat tinggi yang diciptakan oleh Guido van Rossum pada tahun 1989. Ide awal dari Python adalah untuk membuat bahasa yang memiliki sintaks yang sederhana dan mudah dipahami sehingga lebih mudah dipelajari dan digunakan. Python memiliki kode sumber terbuka dan sangat aktif dikembangkan oleh komunitas pemrograman.
+Python adalah bahasa pemrograman tingkat tinggi yang diciptakan oleh Guido van Rossum pada tahun 1989. Ide awal dari Python adalah untuk membuat bahasa yang memiliki sintaks yang sederhana dan mudah dipahami sehingga lebih mudah dipelajari dan digunakan.
 
-Bahasa ini sangat popular dalam bidang ilmu data dan analisis, meskipun juga digunakan dalam berbagai bidang lain seperti web development, pemrograman perangkat lunak, dan pemodelan bisnis. Python memiliki sejumlah besar library dan alat yang memungkinkan pemrogram untuk melakukan tugas-tugas kompleks dengan mudah dan cepat.
+Bahasa ini sangat popular dalam bidang ilmu data dan analitik, meskipun juga digunakan dalam berbagai bidang lain seperti web development, pemrograman perangkat lunak, dan pemodelan bisnis. Python memiliki sejumlah besar library dan alat yang memungkinkan programmer untuk melakukan tugas-tugas kompleks dengan mudah dan cepat.
 
 ### R
-R adalah bahasa pemrograman dan perangkat lunak yang dikembangkan oleh Ross Ihaka dan Robert Gentleman pada 1993 di Universitas Auckland, Selandia Baru. Awalnya, R dibuat sebagai alternatif untuk bahasa pemrograman S yang digunakan dalam statistik. Dalam beberapa tahun, R menjadi populer di kalangan ilmuwan data dan ahli statistika karena kemampuannya dalam melakukan analisis statistik dan visualisasi data.
+R adalah bahasa pemrograman dan perangkat lunak yang dikembangkan oleh Ross Ihaka dan Robert Gentleman pada 1993 di Universitas Auckland, Selandia Baru. Awalnya, R dibuat sebagai alternatif untuk bahasa pemrograman S yang digunakan dalam statistika. Dalam beberapa tahun, R menjadi populer di kalangan ilmuwan data dan ahli statistika, karena kemampuannya dalam melakukan analisis statistik dan visualisasi data.
 
 Sejak saat itu, R telah mengalami perkembangan yang sangat pesat, dengan banyak paket dan library ditambahkan untuk memenuhi kebutuhan komunitas penggunanya yang semakin bertambah. R saat ini digunakan dalam berbagai bidang, termasuk penelitian, bisnis, dan industri. Hal ini terutama karena ketersediaan paket dan library yang kuat, serta kemampuannya untuk melakukan analisis yang kompleks dan visualisasi data yang atraktif.
 </p>
